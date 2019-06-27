@@ -10,7 +10,7 @@
             <path class="logo-p" d="M149.5,28.5c0.6-0.1,1.2-0.2,1.8-0.3c0.6,0,1.2-0.1,1.7-0.1c0.5,0,1.1,0,1.7,0.1c0.6,0,1.2,0.1,1.8,0.3 c0,1.2-0.1,2.4-0.3,3.6c-0.2,1.1-0.5,2.3-0.9,3.5c-0.6,0.1-1.2,0.2-1.8,0.3c-0.6,0-1.2,0.1-1.7,0.1c-0.5,0-1.1,0-1.7-0.1 c-0.6,0-1.2-0.1-1.8-0.3c0-1.2,0.1-2.4,0.3-3.6C148.8,30.8,149.1,29.6,149.5,28.5z"></path>
         </svg>
     </a>
-    <button class="menu-toggle d-lg-none" v-on:click="menuMobileActive = !menuMobileActive">
+    <button class="menu-toggle d-lg-none">
       <span></span>
       <span></span>
       <span></span>
