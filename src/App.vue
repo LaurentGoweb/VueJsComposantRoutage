@@ -1,5 +1,5 @@
 <template>
-  <div id="app" class="d-flex flex-column align-items-center" v-bind:class="{ menumobileopen: menuMobileActive }">
+  <div id="app" class="d-flex flex-column align-items-center">
     <Header></Header>
     <router-view></router-view>
 
@@ -23,7 +23,6 @@ export default {
       },
   data: function() {
     return {
-    menuMobileActive:false
   }
   }
 }

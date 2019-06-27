@@ -5,7 +5,7 @@
 
               </nav>
 
-    <h2>Page 1</h2>
+    <h2>Hello mon poulet !</h2>
     
 </section>
 </template>
