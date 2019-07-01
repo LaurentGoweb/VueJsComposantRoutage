@@ -29,12 +29,7 @@
         ></path>
       </svg>
     </a>
-    <button class="menu-toggle d-lg-none">
-      <span></span>
-      <span></span>
-      <span></span>
-    </button>
-
+ 
     <Menu></Menu>
   </header>
     <router-view></router-view>
