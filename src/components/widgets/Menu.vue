@@ -6,7 +6,12 @@
       <li><router-link to="/Page2">Page2</router-link></li>
 
     </ul>
-   
+      <button class="menu-toggle d-lg-none">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+
   </nav>
 </template>
 
